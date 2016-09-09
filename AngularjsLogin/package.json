@@ -1,0 +1,9 @@
+{
+  "name": "angularjs-login",
+  "version": "0.0.0",
+  "description": "AngularjsLogin",
+  "main": "app.js",
+  "author": {
+    "name": "dinesh"
+  }
+}
