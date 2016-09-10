@@ -48,7 +48,6 @@
   <ItemGroup>
     <TypeScriptCompile Include="main\app.ts" />
     <TypeScriptCompile Include="main\FBSetup.ts" />
-    <TypeScriptCompile Include="main\srvAuth.ts" />
     <TypeScriptCompile Include="Scripts\typings\node\node.d.ts" />
     <Content Include="index.html" />
     <Content Include="package.json" />
